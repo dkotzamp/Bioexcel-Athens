@@ -20,7 +20,7 @@ All participants, on-site and online, need to set up the workshop virtual machin
 
 **[VM setup, tutorials and troubleshooting](hands_on/)**
 
-Participant setup instructions are available in the [hands-on section](hands_on/). The illustrated PDF will be added separately.
+**[Download the illustrated instructions for participants (PDF)](hands_on/Instructions_bioexcel.pdf)**
 
 ---
 
