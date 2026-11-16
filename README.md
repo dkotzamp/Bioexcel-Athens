@@ -84,4 +84,4 @@ The workshop virtual machines were prepared by Dimitris Dellis (GRNET, Greek Res
 
 ## Contact
 
-For questions about the workshop or the VM setup: [zcournia@bioacademy.gr](mailto:zcournia@bioacademy.gr)
+For questions about the workshop or the VM setup: [zcournia \[at\] bioacademy.gr](mailto:zcournia@bioacademy.gr)
