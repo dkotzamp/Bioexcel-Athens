@@ -9,7 +9,7 @@ title: Hands-on workshop — participant setup
 
 **Please set up and test the workshop virtual machine (VM) before the workshop, whether you are joining in person or online.** The VM download is large, so please do not leave it until the first session.
 
-**[Download the original illustrated instructions for participants (PDF)](Instructions_bioexcel.pdf)**
+The original illustrated participant PDF will be added to this directory. All setup steps are reproduced below.
 
 ## Requirements
 
