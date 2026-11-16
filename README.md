@@ -1,4 +1,4 @@
-![Biomolecular Simulations Workshop: Aegean Edition, 18-20 November 2026, Athens, Greece](assets/banner.svg)
+![Biomolecular Simulations Workshop: Aegean Edition, 18-20 November 2026, Athens, Greece](assets/banner.png)
 
 # BioExcel / EuroCC Workshop on Biomolecular Simulations: Aegean Edition
 
