@@ -1,4 +1,4 @@
-![Biomolecular Simulations Workshop: Aegean Edition, 18-20 November 2026, Athens, Greece](assets/banner.png)
+![Biomolecular Simulations Workshop: Aegean Edition, 18-20 November 2026, Athens, Greece](assets/banner.svg)
 
 # BioExcel / EuroCC Workshop on Biomolecular Simulations: Aegean Edition
 
@@ -20,7 +20,7 @@ All participants, on-site and online, need to set up the workshop virtual machin
 
 **[VM setup, tutorials and troubleshooting](hands_on/)**
 
-[Download the illustrated participant setup instructions (PDF)](hands_on/Instructions_bioexcel.pdf)
+Participant setup instructions are available in the [hands-on section](hands_on/). The illustrated PDF will be added separately.
 
 ---
 
