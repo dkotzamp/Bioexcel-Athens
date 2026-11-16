@@ -73,6 +73,6 @@ Save any work you want to keep outside the VM, then shut it down. In VirtualBox 
 
 ## Help
 
-If you encounter setup problems before the workshop, contact the organisers at **[zcournia@bioacademy.gr](mailto:zcournia@bioacademy.gr)**.
+If you encounter setup problems before the workshop, contact the organisers at **[zcournia \[at\] bioacademy.gr](mailto:zcournia@bioacademy.gr)**.
 
 [← Back to the workshop programme](../)
