@@ -1,0 +1,76 @@
+---
+title: Hands-on workshop — participant setup
+---
+
+# Hands-on workshop: participant setup
+
+[← Back to the workshop programme](../)
+
+**Please set up and test the workshop virtual machine (VM) before the workshop, whether you are joining in person or online.** The VM download is large, so please do not leave it until the first session.
+
+**[Download the original illustrated instructions for participants (PDF)](Instructions_bioexcel.pdf)**
+
+## Requirements
+
+- At least **25 GB of free disk space** during installation.
+- At least **8 GB of RAM** is recommended.
+- A computer with Intel/AMD (x86) or Apple silicon (ARM64), and enough time to download the workshop VM.
+
+## 1. Identify your processor
+
+- **Apple silicon Mac:** In Apple menu → About This Mac, if it says *Chip* followed by an Apple chip name, choose **ARM64**.
+- **Intel Mac:** If *About This Mac* shows an Intel *Processor*, choose **x86**.
+- **Windows or Linux (Intel or AMD):** Choose **x86**.
+
+## 2. Install VirtualBox
+
+Install VirtualBox from the **[official VirtualBox downloads page](https://www.virtualbox.org/wiki/Downloads)** for your operating system.
+
+- **Mac:** If macOS blocks installation, check System Settings → Privacy & Security for a way to approve the installer.
+- **Windows:** Open Task Manager → Performance → CPU and verify that *Virtualization* is enabled. If disabled, your BIOS/UEFI settings may need changing.
+
+## 3. Download the workshop VM
+
+Use the **[workshop VM download page](http://snf-35327.ok-kno.grnetcloud.net/BioExcelTraining/)** supplied in the participant handout. Choose **one** of these files:
+
+| File | Computer |
+|---|---|
+| `DebianTrain_x86.ova` | Windows/Linux with Intel or AMD processors; Intel Macs |
+| `DebianTrainARM64.ova` | Apple silicon Macs |
+
+**Download security:** The original handout mentions that browsers may display an expired-certificate warning for the VM host. If you see a certificate or connection-security warning, contact the organisers to verify a safe download method instead of bypassing the warning without verification.
+
+## 4. Import into VirtualBox
+
+1. Open VirtualBox Manager.
+2. Select **Home → Import** (or the equivalent *Import Appliance* menu option in your version).
+3. Select the `.ova` file you downloaded.
+4. Review settings, click **Finish**, and allow the import to complete.
+5. After the import finishes, you can delete the downloaded `.ova` file to reclaim disk space.
+
+## 5. Start the VM
+
+Select the imported virtual machine, then click the green **Start** button.
+
+The username and password provided by the workshop organisers are both `user`.
+
+## Useful tips
+
+- **Release the mouse:** Right `Ctrl` on Windows/Linux or left `Command` on Mac.
+- **Enable copy and paste:** In the running VM, choose Devices → Shared Clipboard → Bidirectional.
+- **Paste into the VM terminal:** `Ctrl` + `Shift` + `V`.
+- **Open a terminal:** Click the black terminal icon in the VM dock.
+
+## Hands-on tutorials
+
+Workshop tutorial materials for **GROMACS / VIAMD**, **BioBB**, and **HADDOCK / cryo-EM** can be linked or added to this `hands_on/` directory as the instructors provide them. No tutorial files were included in the supplied materials.
+
+## After the workshop
+
+Save any work you want to keep outside the VM, then shut it down. In VirtualBox Manager, select the VM and choose **Machine → Remove → Delete All Files** to reclaim disk space once you are sure you no longer need it.
+
+## Help
+
+If you encounter setup problems before the workshop, contact the organisers at **[zcournia@bioacademy.gr](mailto:zcournia@bioacademy.gr)**.
+
+[← Back to the workshop programme](../)
