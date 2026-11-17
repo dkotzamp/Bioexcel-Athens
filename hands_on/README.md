@@ -65,7 +65,17 @@ The username and password provided by the workshop organisers are both `user`.
 
 ## Hands-on tutorials
 
-Workshop tutorial materials for **GROMACS / VIAMD**, **BioBB**, and **HADDOCK / cryo-EM** can be linked or added to this `hands_on/` directory as the instructors provide them. No tutorial files were included in the supplied materials.
+Tutorial materials and setup instructions are provided below as they become available.
+
+### GROMACS — introductory molecular dynamics tutorial
+
+Open a terminal in the workshop virtual machine and run the following commands to download and extract the GROMACS tutorial materials:
+
+```bash
+cd ~
+wget https://gitlab.com/gromacs/online-tutorials/md-intro-tutorial/-/archive/main/md-intro-tutorial-main.zip
+unzip md-intro-tutorial-main.zip
+```
 
 ### VIAMD — download and installation
 
