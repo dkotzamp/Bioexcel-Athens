@@ -83,6 +83,10 @@ unzip md-intro-tutorial-main.zip
 - **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.48 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.48).
 - **Linux:** Follow the [VIAMD build and installation instructions](https://github.com/scanberg/viamd/wiki/0.-Building).
 
+### HADDOCK — tutorial
+
+- [HADDOCK tutorial: Modelling the RNA polymerase III complex using cross-links and starting conformations fitted into the cryo-EM map](https://www.bonvinlab.org/education/HADDOCK24/RNA-Pol-III-2024/#modelling-the-complex-by-docking-with-cross-links-only-using-as-starting-conformations-the-models-fitted-into-the-cryo-em-map)
+
 ## After the workshop
 
 Save any work you want to keep outside the VM, then shut it down. In VirtualBox Manager, select the VM and choose **Machine → Remove → Delete All Files** to reclaim disk space once you are sure you no longer need it.
