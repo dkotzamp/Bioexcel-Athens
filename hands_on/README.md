@@ -67,6 +67,11 @@ The username and password provided by the workshop organisers are both `user`.
 
 Workshop tutorial materials for **GROMACS / VIAMD**, **BioBB**, and **HADDOCK / cryo-EM** can be linked or added to this `hands_on/` directory as the instructors provide them. No tutorial files were included in the supplied materials.
 
+### VIAMD — download and installation
+
+- **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.48 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.48).
+- **Linux:** Follow the [VIAMD build and installation instructions](https://github.com/scanberg/viamd/wiki/0.-Building).
+
 ## After the workshop
 
 Save any work you want to keep outside the VM, then shut it down. In VirtualBox Manager, select the VM and choose **Machine → Remove → Delete All Files** to reclaim disk space once you are sure you no longer need it.
