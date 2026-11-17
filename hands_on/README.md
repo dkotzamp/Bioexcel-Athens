@@ -62,6 +62,7 @@ The username and password provided by the workshop organisers are both `user`.
 - **Enable copy and paste:** In the running VM, choose Devices → Shared Clipboard → Bidirectional.
 - **Paste into the VM terminal:** `Ctrl` + `Shift` + `V`.
 - **Open a terminal:** Click the black terminal icon in the VM dock.
+- **Adjust display scaling on high-resolution monitors:** In the VM window, open the **View** menu in the upper-left corner, select **Virtual Screen 1**, and choose the desired scaling percentage. For example, **200%** may provide a more comfortable view on a high-resolution display.
 
 ## Hands-on tutorials
 
