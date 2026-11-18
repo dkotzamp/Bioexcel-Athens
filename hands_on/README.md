@@ -64,6 +64,12 @@ The username and password provided by the workshop organisers are both `user`.
 - **Open a terminal:** Click the black terminal icon in the VM dock.
 - **Adjust display scaling on high-resolution monitors:** In the VM window, open the **View** menu in the upper-left corner, select **Virtual Screen 1**, and choose the desired scaling percentage. For example, **200%** may provide a more comfortable view on a high-resolution display.
 
+## Workshop materials on Zenodo
+
+The workshop materials will be collected and archived on Zenodo.
+
+**[Workshop materials on Zenodo](https://zenodo.org/records/24335122)** (available once the record is published and the files are made public).
+
 ## Hands-on tutorials
 
 Tutorial materials and setup instructions are provided below as they become available.
@@ -80,10 +86,12 @@ unzip md-intro-tutorial-main.zip
 
 ### VIAMD — download and installation
 
-- **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.48 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.48).
+- **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.50 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.50).
 - **Linux:** Follow the [VIAMD build and installation instructions](https://github.com/scanberg/viamd/wiki/0.-Building).
 
-### HADDOCK — tutorials
+We will eventually use dataset available [here](https://drive.google.com/drive/folders/1ai3KklE8DbkB2q_ftitfIb2oGiIuhT_Z?usp=sharing)
+
+### HADDOCK — tutorial
 
 - [HADDOCK tutorial: Modelling the RNA polymerase III complex using cross-links and starting conformations fitted into the cryo-EM map](https://www.bonvinlab.org/education/HADDOCK24/RNA-Pol-III/#modelling-the-complex-by-docking-with-cross-links-only-using-as-starting-conformations-the-models-fitted-into-the-cryo-em-map)
 - [HADDOCK3 tutorial: Modelling an antibody-antigen complex (Google Colab notebook)](https://colab.research.google.com/github/haddocking/haddock3/blob/main/notebooks/HADDOCK3-antibody-antigen.ipynb#scrollTo=Rh-vaM_9woqM): this notebook runs in your web browser on Google Colab, so you need a Google account. It installs HADDOCK3 and downloads the tutorial data itself, so you do not need the VM for it.
