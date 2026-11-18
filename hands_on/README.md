@@ -64,6 +64,12 @@ The username and password provided by the workshop organisers are both `user`.
 - **Open a terminal:** Click the black terminal icon in the VM dock.
 - **Adjust display scaling on high-resolution monitors:** In the VM window, open the **View** menu in the upper-left corner, select **Virtual Screen 1**, and choose the desired scaling percentage. For example, **200%** may provide a more comfortable view on a high-resolution display.
 
+## Workshop materials on Zenodo
+
+The workshop materials will be collected and archived on Zenodo.
+
+**[Workshop materials on Zenodo](https://zenodo.org/records/24335122)** (available once the record is published and the files are made public).
+
 ## Hands-on tutorials
 
 Tutorial materials and setup instructions are provided below as they become available.
