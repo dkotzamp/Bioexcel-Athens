@@ -86,7 +86,7 @@ unzip md-intro-tutorial-main.zip
 
 ### VIAMD — download and installation
 
-- **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.50 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.50)).
+- **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.50 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.50).
 - **Linux:** Follow the [VIAMD build and installation instructions](https://github.com/scanberg/viamd/wiki/0.-Building).
 
 We will eventually use dataset available [here](https://drive.google.com/drive/folders/1ai3KklE8DbkB2q_ftitfIb2oGiIuhT_Z?usp=sharing)
